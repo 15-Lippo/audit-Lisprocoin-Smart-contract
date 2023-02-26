@@ -132,5 +132,5 @@ contract Lisprocoin {
  //   "symbol": "LSP20",
  //   "name": "Lisprocoin",
  //   "decimals": 18
- // "logo token" : "https://github.com/15-Lippo/lis-swap/blob/main/src/components/navbar/perseus.png";
+ // "logo token" : https://github.com/15-Lippo/Logo-Lisprocoin-;
  https://polygonscan.com/token/0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C
