@@ -133,4 +133,4 @@ contract Lisprocoin {
  //   "name": "Lisprocoin",
  //   "decimals": 18
  // "logo token" : "https://github.com/15-Lippo/lis-swap/blob/main/src/components/navbar/perseus.png";
- https://polygonscan.com/token/0x65Abd48bC38DEA1938AE94428590d4da54f74#code
+ https://polygonscan.com/token/0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C
